@@ -24,16 +24,8 @@ sudo dpkg -i mysql-apt-config_0.8.23-1_all.deb
 sudo apt-get update
 sudo apt-get install mysql-server
 
-
-
 4. Управление deb-пакетами
    - Установить и затем удалить deb-пакет, используя команду `dpkg`.
-
-sudo apt update
-apt search gimp
-sudo apt install gimp
------------------------
-
 
 sudo apt update
 sudo apt upgrade
